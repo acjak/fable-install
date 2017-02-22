@@ -8,3 +8,8 @@ echo 'export PATH=$HOME/miniconda2/bin:$PATH' >> ~/.bashrc
 conda update --yes conda
 conda config --add channels http://conda.binstar.org/fable
 conda install 3dxrd-scripts
+
+echo ""
+echo ""
+echo "Fable installation complete."
+echo ""
